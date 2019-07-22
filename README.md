@@ -1,2 +1,3 @@
 # linktest
-This is a link test
+This is a link test!
+Hello World!
